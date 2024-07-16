@@ -1,7 +1,5 @@
 # Razorpay Integration
 
-![Razorpay Logo](insert_logo_url_here)
-
 Simplify your payment processing with Razorpay! Easily integrate secure online payments into your web applications using our GitHub repository.
 
 ## Features
